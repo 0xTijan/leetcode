@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0838-design-linked-list](https://github.com/0xTijan/leetcode/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/0xTijan/leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Two Pointers
 |  |
@@ -36,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/0xTijan/leetcode/tree/master/0412-fizz-buzz) |
+## Design
+|  |
+| ------- |
+| [0838-design-linked-list](https://github.com/0xTijan/leetcode/tree/master/0838-design-linked-list) |
 <!---LeetCode Topics End-->
