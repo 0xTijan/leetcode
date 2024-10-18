@@ -13,6 +13,7 @@ class Solution:
         
         while node:
             if prev.val == node.val:
+                # delete the duplicate by skipping it
                 prev.next = node.next
             else:
                 prev = node
