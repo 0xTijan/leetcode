@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/0xTijan/leetcode/tree/master/0009-palindrome-number) |
+| [0069-sqrtx](https://github.com/0xTijan/leetcode/tree/master/0069-sqrtx) |
 | [0412-fizz-buzz](https://github.com/0xTijan/leetcode/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
@@ -75,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/0xTijan/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/0xTijan/leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
