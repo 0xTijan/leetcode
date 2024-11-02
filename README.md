@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/0xTijan/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/0xTijan/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/0xTijan/leetcode/tree/master/0070-climbing-stairs) |
+| [0263-ugly-number](https://github.com/0xTijan/leetcode/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/0xTijan/leetcode/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
