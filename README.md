@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/0xTijan/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/0xTijan/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/0xTijan/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/0xTijan/leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/0xTijan/leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/0xTijan/leetcode/tree/master/0383-ransom-note) |
 ## String
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/0xTijan/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/0xTijan/leetcode/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/0xTijan/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0202-happy-number](https://github.com/0xTijan/leetcode/tree/master/0202-happy-number) |
 | [0908-middle-of-the-linked-list](https://github.com/0xTijan/leetcode/tree/master/0908-middle-of-the-linked-list) |
 ## Math
 |  |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/0xTijan/leetcode/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/0xTijan/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/0xTijan/leetcode/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/0xTijan/leetcode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/0xTijan/leetcode/tree/master/0263-ugly-number) |
 | [0412-fizz-buzz](https://github.com/0xTijan/leetcode/tree/master/0412-fizz-buzz) |
 ## Simulation
