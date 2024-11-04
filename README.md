@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/0xTijan/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/0xTijan/leetcode/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/0xTijan/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/0xTijan/leetcode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/0xTijan/leetcode/tree/master/0383-ransom-note) |
 ## String
 |  |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/0xTijan/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/0xTijan/leetcode/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/0xTijan/leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/0xTijan/leetcode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/0xTijan/leetcode/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/0xTijan/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/0xTijan/leetcode/tree/master/0412-fizz-buzz) |
 ## Simulation
 |  |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/0xTijan/leetcode/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/0xTijan/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/0xTijan/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0268-missing-number](https://github.com/0xTijan/leetcode/tree/master/0268-missing-number) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/0xTijan/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0724-find-pivot-index](https://github.com/0xTijan/leetcode/tree/master/0724-find-pivot-index) |
 ## Dynamic Programming
@@ -96,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/0xTijan/leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/0xTijan/leetcode/tree/master/0268-missing-number) |
 ## Memoization
 |  |
 | ------- |
@@ -108,4 +113,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/0xTijan/leetcode/tree/master/0067-add-binary) |
+| [0268-missing-number](https://github.com/0xTijan/leetcode/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
