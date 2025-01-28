@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/0xTijan/leetcode/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/0xTijan/leetcode/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/0xTijan/leetcode/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/0xTijan/leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/0xTijan/leetcode/tree/master/0383-ransom-note) |
@@ -146,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1396-count-servers-that-communicate](https://github.com/0xTijan/leetcode/tree/master/1396-count-servers-that-communicate) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/0xTijan/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
