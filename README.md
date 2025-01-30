@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/0xTijan/leetcode/tree/master/0202-happy-number) |
 | [0263-ugly-number](https://github.com/0xTijan/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/0xTijan/leetcode/tree/master/0268-missing-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/0xTijan/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/0xTijan/leetcode/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/0xTijan/leetcode/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/0xTijan/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/0xTijan/leetcode/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/0xTijan/leetcode/tree/master/0268-missing-number) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/0xTijan/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Depth-First Search
 |  |
 | ------- |
