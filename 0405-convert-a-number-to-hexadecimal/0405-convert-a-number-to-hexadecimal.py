@@ -7,7 +7,7 @@ class Solution:
 
         if num < 0:
             num = 2**32 + num
-            
+
         q = num
         r = 0
         hexString = ""
@@ -15,7 +15,6 @@ class Solution:
         while q > 0:
             r = q % 16
             q = q // 16
-            print(r, q)
             if r > 9:
                 hexString = values[r % 10] + hexString
             else:
