@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/0xTijan/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0724-find-pivot-index](https://github.com/0xTijan/leetcode/tree/master/0724-find-pivot-index) |
 | [1396-count-servers-that-communicate](https://github.com/0xTijan/leetcode/tree/master/1396-count-servers-that-communicate) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/0xTijan/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/0xTijan/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3429-special-array-i](https://github.com/0xTijan/leetcode/tree/master/3429-special-array-i) |
 ## Dynamic Programming
