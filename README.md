@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/0xTijan/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/0xTijan/leetcode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/0xTijan/leetcode/tree/master/0383-ransom-note) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/0xTijan/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## String
 |  |
 | ------- |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/0xTijan/leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/0xTijan/leetcode/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/0xTijan/leetcode/tree/master/0412-fizz-buzz) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/0xTijan/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/0xTijan/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Sorting
 |  |
@@ -33,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/0xTijan/leetcode/tree/master/0383-ransom-note) |
 | [1396-count-servers-that-communicate](https://github.com/0xTijan/leetcode/tree/master/1396-count-servers-that-communicate) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/0xTijan/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Linked List
 |  |
 | ------- |
