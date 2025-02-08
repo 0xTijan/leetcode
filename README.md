@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/0xTijan/leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/0xTijan/leetcode/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/0xTijan/leetcode/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/0xTijan/leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/0xTijan/leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/0xTijan/leetcode/tree/master/0268-missing-number) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/0xTijan/leetcode/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/0xTijan/leetcode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/0xTijan/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/0xTijan/leetcode/tree/master/0412-fizz-buzz) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/0xTijan/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/0xTijan/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -181,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/0xTijan/leetcode/tree/master/2434-design-a-number-container-system) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/0xTijan/leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
