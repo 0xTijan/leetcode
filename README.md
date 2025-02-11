@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/0xTijan/leetcode/tree/master/0383-ransom-note) |
 | [0412-fizz-buzz](https://github.com/0xTijan/leetcode/tree/master/0412-fizz-buzz) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/0xTijan/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/0xTijan/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/0xTijan/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3447-clear-digits](https://github.com/0xTijan/leetcode/tree/master/3447-clear-digits) |
 ## Sorting
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/0xTijan/leetcode/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/0xTijan/leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/0xTijan/leetcode/tree/master/0412-fizz-buzz) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/0xTijan/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/0xTijan/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/0xTijan/leetcode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/0xTijan/leetcode/tree/master/3447-clear-digits) |
@@ -183,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/0xTijan/leetcode/tree/master/0020-valid-parentheses) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/0xTijan/leetcode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3447-clear-digits](https://github.com/0xTijan/leetcode/tree/master/3447-clear-digits) |
 ## Heap (Priority Queue)
 |  |
