@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/0xTijan/leetcode/tree/master/0441-arranging-coins) |
 | [1013-fibonacci-number](https://github.com/0xTijan/leetcode/tree/master/1013-fibonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/0xTijan/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+| [1477-product-of-the-last-k-numbers](https://github.com/0xTijan/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/0xTijan/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 ## Simulation
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0838-design-linked-list](https://github.com/0xTijan/leetcode/tree/master/0838-design-linked-list) |
+| [1477-product-of-the-last-k-numbers](https://github.com/0xTijan/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2434-design-a-number-container-system](https://github.com/0xTijan/leetcode/tree/master/2434-design-a-number-container-system) |
 ## Array
 |  |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/0xTijan/leetcode/tree/master/0724-find-pivot-index) |
 | [1364-tuple-with-same-product](https://github.com/0xTijan/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/0xTijan/leetcode/tree/master/1396-count-servers-that-communicate) |
+| [1477-product-of-the-last-k-numbers](https://github.com/0xTijan/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/0xTijan/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/0xTijan/leetcode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/0xTijan/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/0xTijan/leetcode/tree/master/0724-find-pivot-index) |
+| [1477-product-of-the-last-k-numbers](https://github.com/0xTijan/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -206,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/0xTijan/leetcode/tree/master/0258-add-digits) |
+## Data Stream
+|  |
+| ------- |
+| [1477-product-of-the-last-k-numbers](https://github.com/0xTijan/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
