@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/0xTijan/leetcode/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/0xTijan/leetcode/tree/master/0441-arranging-coins) |
 | [1013-fibonacci-number](https://github.com/0xTijan/leetcode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/0xTijan/leetcode/tree/master/1236-n-th-tribonacci-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/0xTijan/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1477-product-of-the-last-k-numbers](https://github.com/0xTijan/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/0xTijan/leetcode/tree/master/2448-count-number-of-bad-pairs) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/0xTijan/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/0xTijan/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [1013-fibonacci-number](https://github.com/0xTijan/leetcode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/0xTijan/leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Recursion
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/0xTijan/leetcode/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/0xTijan/leetcode/tree/master/1013-fibonacci-number) |
+| [1236-n-th-tribonacci-number](https://github.com/0xTijan/leetcode/tree/master/1236-n-th-tribonacci-number) |
 ## Prefix Sum
 |  |
 | ------- |
