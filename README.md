@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/0xTijan/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0724-find-pivot-index](https://github.com/0xTijan/leetcode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/0xTijan/leetcode/tree/master/0792-binary-search) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/0xTijan/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1364-tuple-with-same-product](https://github.com/0xTijan/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/0xTijan/leetcode/tree/master/1396-count-servers-that-communicate) |
 | [1477-product-of-the-last-k-numbers](https://github.com/0xTijan/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/0xTijan/leetcode/tree/master/0268-missing-number) |
 | [0441-arranging-coins](https://github.com/0xTijan/leetcode/tree/master/0441-arranging-coins) |
 | [0792-binary-search](https://github.com/0xTijan/leetcode/tree/master/0792-binary-search) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/0xTijan/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 ## Memoization
 |  |
 | ------- |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/0xTijan/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1396-count-servers-that-communicate](https://github.com/0xTijan/leetcode/tree/master/1396-count-servers-that-communicate) |
 ## Trie
 |  |
