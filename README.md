@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/0xTijan/leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/0xTijan/leetcode/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/0xTijan/leetcode/tree/master/0383-ransom-note) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/0xTijan/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/0xTijan/leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1364-tuple-with-same-product](https://github.com/0xTijan/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/0xTijan/leetcode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/0xTijan/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0724-find-pivot-index](https://github.com/0xTijan/leetcode/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/0xTijan/leetcode/tree/master/0792-binary-search) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/0xTijan/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/0xTijan/leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1364-tuple-with-same-product](https://github.com/0xTijan/leetcode/tree/master/1364-tuple-with-same-product) |
 | [1396-count-servers-that-communicate](https://github.com/0xTijan/leetcode/tree/master/1396-count-servers-that-communicate) |
