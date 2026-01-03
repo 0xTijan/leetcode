@@ -7,7 +7,6 @@ impl Solution {
             // chose correct permutation
             let factorial = Self::factorial(i - 1) as f32;
             let chosen: f32 = k as f32 / factorial;
-            println!("{:#?}, {}, {:#?}", chosen, k, factorial);
             let mut element_index = chosen.ceil() as usize;
             if element_index == 0 && chosen == 0.0 {
                 element_index = v.len();
@@ -16,9 +15,7 @@ impl Solution {
             res = res + &element.to_string();
             // update v and k
             k = k - factorial as i32 * chosen.floor() as i32;
-            println!("new k {}", k);
             v.retain(|&x| x != element);
-            println!("new n {:#?}", v);
         }  
 
         // add last element in v to string
