@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/0xTijan/leetcode/tree/master/0046-permutations) |
 | [0066-plus-one](https://github.com/0xTijan/leetcode/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/0xTijan/leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/0xTijan/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -251,4 +252,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1258-article-views-i](https://github.com/0xTijan/leetcode/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/0xTijan/leetcode/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/0xTijan/leetcode/tree/master/1908-recyclable-and-low-fat-products) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/0xTijan/leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
