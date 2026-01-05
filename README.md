@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/0xTijan/leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1477-product-of-the-last-k-numbers](https://github.com/0xTijan/leetcode/tree/master/1477-product-of-the-last-k-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/0xTijan/leetcode/tree/master/2448-count-number-of-bad-pairs) |
+| [2469-convert-the-temperature](https://github.com/0xTijan/leetcode/tree/master/2469-convert-the-temperature) |
 ## Simulation
 |  |
 | ------- |
