@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/0xTijan/leetcode/tree/master/0268-missing-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/0xTijan/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/0xTijan/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3074-apple-redistribution-into-boxes](https://github.com/0xTijan/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Counting
 |  |
 | ------- |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/0xTijan/leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2448-count-number-of-bad-pairs](https://github.com/0xTijan/leetcode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/0xTijan/leetcode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3074-apple-redistribution-into-boxes](https://github.com/0xTijan/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/0xTijan/leetcode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/0xTijan/leetcode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3429-special-array-i](https://github.com/0xTijan/leetcode/tree/master/3429-special-array-i) |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/0xTijan/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [3074-apple-redistribution-into-boxes](https://github.com/0xTijan/leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 ## Binary Search
 |  |
 | ------- |
